@@ -33,7 +33,7 @@ var config = {
         turn_on: "Press to Start",
         play: "Music, please~",
         bannar_coming: "好像差点什么",
-        balloons_flying: "Balloon?",
+        balloons_flying: "Balloons?",
         cake_fadein: "Cake？",
         light_candle: "Candle？",
         wish_message: "Happy Birthday",

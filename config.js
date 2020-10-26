@@ -32,8 +32,8 @@ var config = {
     desc: {
         turn_on: "Press to Start",
         play: "Music, please~",
-        bannar_coming: "Balloon",
-        balloons_flying: "好像少点东西",
+        bannar_coming: "好像差点什么",
+        balloons_flying: "Balloon?",
         cake_fadein: "Cake？",
         light_candle: "Candle？",
         wish_message: "Happy Birthday",
